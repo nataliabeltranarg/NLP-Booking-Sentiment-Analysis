@@ -7,18 +7,19 @@ This project explores how significant annual events in Barcelona, Spain, can inf
 This section focuses on the web scraping aspect of the project. We collected data on hotel names, dates, room prices, and hotel descriptions. For more detailed information on the event, cities, time periods, and the scraping process, please refer to our notebook titled '**scraping_booking.ipynb**'.
 
 #### Notebook Contents
-**Future Event Selection**
-**Time Period & City Selection**
-**Scraping Pipeline**
+1. **Future Event Selection**
+2. **Time Period & City Selection**
+3. **Scraping Pipeline**
+4. **Scrape Information**
   
 ## Section 2: Sentiment Analysis 
-This section focuses on the analysis aspect of the project. We extracted and analyzed text features from hotel descriptions to understand their impact on rental prices. Alicante was chosen as the control city for comparison. For more detailed information on the sentiment analysis, please refer to our notebook titled '**entiment_analysis.ipynb**'.
+This section focuses on the analysis aspect of the project. We extracted and analyzed text features from hotel descriptions to understand their impact on rental prices. Alicante was chosen as the control city for comparison. For more detailed information on the sentiment analysis and its results, please refer to our notebook titled '**entiment_analysis.ipynb**'.
 
 #### Notebook Contents
-**Difference in Difference Equations**
-**Regression Models**
-**Feature Extraction Control**
-**Hotel Fixed Effect Regression**
+5. **Difference in Difference Equations**
+6. **Regression Models**
+7. **Feature Extraction Control**
+8. **Hotel Fixed Effect Regression**
 
 #### Libraries Used
 * BeautifulSoup
