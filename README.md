@@ -12,7 +12,7 @@ This section focuses on the web scraping aspect of the project. We collected dat
 **Scraping Pipeline**
   
 ## Section 2: Sentiment Analysis 
-This section focuses on the analysis aspect of the project. We extracted and analyzed text features from hotel descriptions to understand their impact on rental prices. Alicante was chosen as the control city for comparison.
+This section focuses on the analysis aspect of the project. We extracted and analyzed text features from hotel descriptions to understand their impact on rental prices. Alicante was chosen as the control city for comparison. For more detailed information on the sentiment analysis, please refer to our notebook titled '**entiment_analysis.ipynb**'.
 
 #### Notebook Contents
 **Difference in Difference Equations**
